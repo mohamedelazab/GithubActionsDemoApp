@@ -1,9 +1,9 @@
-name: Develop CI
+name: development CI
 
 on:
   push:
     branches:
-      - develop
+      - development
 
 jobs:
   build:
