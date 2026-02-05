@@ -19,4 +19,9 @@ class ExampleUnitTest {
     fun minus_isCorrect() {
         assertEquals(5, 8 - 3)
     }
+
+    @Test
+    fun multiply_isCorrect() {
+        assertEquals(15, 3 * 5)
+    }
 }
