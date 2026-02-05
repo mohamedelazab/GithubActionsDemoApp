@@ -22,6 +22,6 @@ class ExampleUnitTest {
 
     @Test
     fun multiply_isCorrect() {
-        assertEquals(15, 3 * 5)
+        assertEquals(16, 4 * 4)
     }
 }
